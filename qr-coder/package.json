@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "barcoder": "^2.0.1",
     "html5-qrcode": "^2.3.4"
   }
 }
